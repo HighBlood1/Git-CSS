@@ -1,0 +1,7 @@
+Estructura:
+selector {
+    propiedad: valor;
+}
+
+Selectores.-
+Universal= *
